@@ -337,7 +337,7 @@
     "rimraf": "^2.5.2",
     "should": "^11.1.1",
     "through2": "^2.0.1",
-    "watchify": "^3.7.0"
+    "watchify": "^3.8.0"
   },
   "files": [
     "bin",
